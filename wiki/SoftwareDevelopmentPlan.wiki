@@ -40,8 +40,7 @@ The major milestones of this project are:
 The project schedule is described as following chart: http://nesc-netbeans-plugin.googlecode.com/svn/wiki/project_schedule.jpg
 
 == Project Work Products ==
-|| *Work Product Name* || *Planned Completion Date* || *Placed Under Change Control* || *Deliverable to Customer* || *Rsponsible Person* ||
+|| *Work Product Name* || *Planned Completion Date* || *Placed Under Change Control* || *Deliverable to Customer* || *Responsible Person* ||
 || Software Project Management Plan - Control document for managing software project || TBD || Yes || No || kunilkuda ||
 || Change Control Plan -Control the changes in the requirement || TBD || Yes || No || kunilkuda ||
 || Change Proposal - proposal of software change (including the patch, submitted by project member) || TBD || Yes || No || kunilkuda ||
-
