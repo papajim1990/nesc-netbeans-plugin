@@ -1,19 +1,15 @@
 #summary Features that will be included in nesC netbeans plugin
 
-= Introduction =
-
-The plugin provides integrated development environment for nesC-based project. 
-
-
 = Features =
 
-The features that are included in the plugin:
+== Basic nesC Project ==
   * Create new nesC project
   * Open nesC project
-  * Create new configuration file / new interface file / new module file
+  * Create new configuration file 
+  * Create new interface file 
+  * Create new module file
+  * Automatic makefile generation
+
+== Basic Usage ==
   * Syntax highlighting
   * Code completion
-  * Automatic makefile generation for new file / directory
-
-= Roadmap =
-TBD
