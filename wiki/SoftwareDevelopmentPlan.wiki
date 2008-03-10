@@ -1,0 +1,20 @@
+#summary Official software development plan for this project
+
+=== Revision ===
+|| Version || Author || Description || Date Completed ||
+|| Draft   || kunilkuda || Initial draft of software development plan || TBD ||
+
+----
+
+= Introduction =
+== Project Overview ==
+[http://nescc.sourceforge.net nesC] and [http://www.tinyos.net TinyOS] are the most used wireless sensor network platform currently. However, most of developers feel intimidated by the lack of tools to develop and verify embedded system built on this platform. 
+
+This plugin is trying to promote Netbeans as the default IDE to ease nesC/TinyOS application development / verification.
+
+== Project Deliverables ==
+List of project deliverables :
+  * Netbeans plugin binary (NBM file)
+  * User guide to nesc-netbeans-plugin
+  * Tutorial / getting started with to nesc-netbeans-plugin document/wiki
+  * Source code
