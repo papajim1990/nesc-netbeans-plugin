@@ -1,7 +1,7 @@
-#summary Official software development plan for this project
+﻿#summary Official software development plan for this project
 
 === Revision ===
-|| Version || Author || Description || Date Completed ||
+|| *Version* || *Author* || *Description* || *Date Completed* ||
 || Draft   || kunilkuda || Initial draft of software development plan || TBD ||
 
 ----
@@ -22,3 +22,26 @@ List of project deliverables :
 == Reference and Materials ==
   * [http://en.wikipedia.org/wiki/Wireless_sensor_network Wireless sensor network]
   * [http://www.netbeans.org/kb/trails/platform.html Netbeans modules learning trail]
+
+----
+
+= Project Organization =
+== Process Model ==
+The project will use iterative process for its lifecycle model.
+
+== Project Major Milestones and Schedule ==
+The major milestones of this project are:
+  * Requirements gathering : Gather the features that need to be included in the project
+  * Basic features implementation : Basic features are the most important features that need to be enabled ASAP. Otherwise, the plugin is unusable. The features that is included in this basic feature is determined during the requirements gathering.
+  * Basic features testing : Test the user acceptability of the plugin, gathers recommendation/sugestion and fix the bugs.
+  * Basic features documentation : Create user documentation (PDF / wiki / xhtml) to be included in the plugin release.
+  * Project progress review : Viewing next features (other than the basic features) to be implemented.
+
+The project schedule is described as following chart: http://nesc-netbeans-plugin.googlecode.com/svn/wiki/project_schedule.jpg
+
+== Project Work Products ==
+|| *Work Product Name* || *Planned Completion Date* || *Placed Under Change Control* || *Deliverable to Customer* || *Rsponsible Person* ||
+|| Software Project Management Plan - Control document for managing software project || TBD || Yes || No || kunilkuda ||
+|| Change Control Plan -Control the changes in the requirement || TBD || Yes || No || kunilkuda ||
+|| Change Proposal - proposal of software change (including the patch, submitted by project member) || TBD || Yes || No || kunilkuda ||
+
