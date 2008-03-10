@@ -18,3 +18,7 @@ List of project deliverables :
   * User guide to nesc-netbeans-plugin
   * Tutorial / getting started with to nesc-netbeans-plugin document/wiki
   * Source code
+
+== Reference and Materials ==
+  * [http://en.wikipedia.org/wiki/Wireless_sensor_network Wireless sensor network]
+  * [http://www.netbeans.org/kb/trails/platform.html Netbeans modules learning trail]
