@@ -2,12 +2,18 @@
 
 = Introduction =
 
+The plugin provides integrated development environment for nesC-based project. 
 
 
+= Features =
 
-= Details =
+The features that are included in the plugin:
+  * Create new nesC project
+  * Open nesC project
+  * Create new configuration file / new interface file / new module file
+  * Syntax highlighting
+  * Code completion
+  * Automatic makefile generation for new file / directory
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+= Roadmap =
+TBD
