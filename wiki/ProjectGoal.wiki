@@ -1,4 +1,0 @@
-#summary The purpose of this project
-
-= Project's Main Goal =
-To ease nesC / tinyOS-based development using Netbeans
