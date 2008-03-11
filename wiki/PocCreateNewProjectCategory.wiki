@@ -5,7 +5,7 @@ by: daniel widyanto a.k.a kunilkuda
 
 == Prequisities ==
   * Tinyos 2.x (including nesc, tinyos-tools, gnu make, avr-gcc or msp-gcc, etc) is fully installed in the workstation. [http://www.tinyos.net/tinyos-2.x/doc/html/install-tinyos.html Refer to the TinyOS website for the installation].
-  * PocCreateNewProjectModule is created.
+  * PocCreateNewProject is created.
 
 ----
 
