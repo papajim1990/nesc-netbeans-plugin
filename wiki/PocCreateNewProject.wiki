@@ -1,0 +1,43 @@
+#summary How to create new project in NB 6.0
+
+= Proof Of Concept : Create New Project in NB 6.0 =
+by: daniel widyanto a.k.a kunilkuda
+
+
+== Prequisities ==
+  * Tinyos 2.x (including nesc, tinyos-tools, gnu make, avr-gcc or msp-gcc, etc) is fully installed in the workstation. [http://www.tinyos.net/tinyos-2.x/doc/html/install-tinyos.html Refer to the TinyOS website for the installation].
+
+----
+
+== Creating New Project ==
+=== Creating New Module ===
+  # Create new module from NB: New Project->Netbeans Modules->Module 
+  # Name it as *!PocCreateNewProject*, set as standalone module, set as main project
+  # Use this code name base: org.netbeans.modules.poccreatenewproject, and keep the rest untouched (Module Display Name, Localizing Bundle, XML Layer).
+
+=== Creating Dummy NesC Template ===
+  The nesC template (taken from <tinyos-dir>/app/Null) is going to be used as NB template when user create new nesC project.
+  # Create new C/C++ application project in NB:New Project->C/C++->C/C++ Application
+  # Name it as: *!NescTemplate*, keep Makefile as Project Makefile Name, and DO NOT set it as *MAIN PROJECT* (this is just the nesc template).
+  # Put all of <tinyos-dir>/app/Null files inside the new created project directory (replace NB's Makefile with TinyOS', *DO NOT MODIFY* the nbproject/ directory).
+
+=== Insert nesC Template as New Project Template ===
+  # Go to *!PocCreateNewProject*
+  # Create new project template: Right click->New->Project Template..
+  # Select *!NescTemplate* as Project
+  # Use this value for the template form
+    * Template name: NesC
+    * Display name: NesC Application
+    * Category: C/C++
+    * Project: *!PocCreateNewProject*
+    * Package: org.netbeans.modules.poccreatenewproject
+  # NB will zip the template, and create forms (in Java file) to be modified.
+
+----
+
+== Testing The Module ==
+  # Right click on *!PocCreateNewProject*->Insert/Reload in Target Platform
+  # Select File->New Project->C/C++->NesC Application
+  # Generate project
+  # The TinyOS Null application *should be replicated* in the test project directory.
+  # The TinyOS project *is not compileable* under NB (yet).
