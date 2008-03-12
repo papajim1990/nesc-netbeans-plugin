@@ -2,7 +2,7 @@
 
 === Revision ===
 || *Version* || *Author* || *Description* || *Date Completed* ||
-|| Draft   || kunilkuda || Initial draft of software development plan || TBD ||
+|| Draft   || kunilkuda || Initial draft of software development plan || 12/03/2008 ||
 
 ----
 
@@ -31,16 +31,30 @@ The project will use iterative process for its lifecycle model.
 
 == Project Major Milestones and Schedule ==
 The major milestones of this project are:
+  * Planning : Plan the project
   * Requirements gathering : Gather the features that need to be included in the project
-  * Basic features implementation : Basic features are the most important features that need to be enabled ASAP. Otherwise, the plugin is unusable. The features that is included in this basic feature is determined during the requirements gathering.
-  * Basic features testing : Test the user acceptability of the plugin, gathers recommendation/sugestion and fix the bugs.
-  * Basic features documentation : Create user documentation (PDF / wiki / xhtml) to be included in the plugin release.
-  * Project progress review : Viewing next features (other than the basic features) to be implemented.
+  * Proof of concept for feature implementation : Implement features in small scale prototype (to test whether the feature is applicable in Netbeans or not), to be combined in production code.
+  * Review Netbeans plugin architecture : Learn the netbeans module architecture, to make the maintenance as easy as possible.
+  * First stage release and testing : Release the plugin with limited basic feature.
+  * First stage review : Collect user input for modification, and incoming feature.
 
-The project schedule is described as following chart: http://nesc-netbeans-plugin.googlecode.com/svn/wiki/project_schedule.jpg
+The project major schedule is described as following chart: http://nesc-netbeans-plugin.googlecode.com/svn/wiki/project_schedule.jpg
 
 == Project Work Products ==
-|| *Work Product Name* || *Planned Completion Date* || *Placed Under Change Control* || *Deliverable to Customer* || *Responsible Person* ||
-|| Software Project Management Plan - Control document for managing software project || TBD || Yes || No || kunilkuda ||
-|| Change Control Plan -Control the changes in the requirement || TBD || Yes || No || kunilkuda ||
-|| Change Proposal - proposal of software change (including the patch, submitted by project member) || TBD || Yes || No || kunilkuda ||
+|| *Work Product Name* || *Planned Completion Date* || *Placed Under Change Control* || *Deliverable to Customer* || *Person In Charge* ||
+|| Software Project Management Plan - Control document for managing software project || 12/03/2008 || Yes || No || Project manager ||
+|| Change Control Plan -Control the changes in the requirement || TBD || Yes || No || Customer support ||
+|| Change Proposal - proposal of software change (including the patch, submitted by project member) || TBD || Yes || No || Team members ||
+
+== Organizational Structure ==
+TBD
+
+== Project Responsibilities ==
+
+|| *Responsibility* || *Persons Responsible* ||
+|| Project Manager  || kunilkuda             ||
+|| Customer support || kunilkuda             ||
+|| Lead Programmer  || kunilkuda             ||
+|| Documentation Lead || kunilkuda           ||
+
+----
