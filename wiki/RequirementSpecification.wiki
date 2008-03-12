@@ -14,3 +14,19 @@ To specify the plugin features that need to be implemented by nesC-netbeans-plug
 TBD
 
 == Intended Audience and Reading Suggestions == 
+Intended audience:
+  * Project manager
+  * Team members
+  * Customer support 
+
+Reading suggestions:
+  * [http://www.netbeans.org/kb/trails/platform.html Netbeans modules learning trail]
+
+----
+
+= Overall Description =
+== System Overview ==
+TBD -- Explain NB and NB module architecture here --
+
+== Plugin Objectives ==
+  * 
