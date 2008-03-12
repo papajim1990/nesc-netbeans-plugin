@@ -1,0 +1,16 @@
+#summary Software requirements specification for nesc-netbeans-plugin
+
+=== Revision ===
+|| *Version* || *Author* || *Description* || *Date Completed* ||
+|| Draft   || kunilkuda || Initial draft for nesc-netbeans-plugin SRS || TBD ||
+
+----
+
+= Introduction =
+== Purpose ==
+To specify the plugin features that need to be implemented by nesC-netbeans-plugin.
+
+== Document Convention ==
+TBD
+
+== Intended Audience and Reading Suggestions == 
