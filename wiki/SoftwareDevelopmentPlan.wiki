@@ -42,7 +42,7 @@ The project major schedule is described as following chart: http://nesc-netbeans
 
 == Project Work Products ==
 || *Work Product Name* || *Planned Completion Date* || *Placed Under Change Control* || *Deliverable to Customer* || *Person In Charge* ||
-|| Software Project Management Plan - Control document for managing software project || 12/03/2008 || Yes || No || Project manager ||
+|| Software Development Plan - Control document for managing software project || 12/03/2008 || Yes || No || Project manager ||
 || Change Control Plan -Control the changes in the requirement || TBD || Yes || No || Customer support ||
 || Change Proposal - proposal of software change (including the patch, submitted by project member) || TBD || Yes || No || Team members ||
 
