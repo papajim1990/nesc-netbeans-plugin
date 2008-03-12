@@ -29,4 +29,15 @@ Reading suggestions:
 TBD -- Explain NB and NB module architecture here --
 
 == Plugin Objectives ==
-  * 
+  * Ease development
+    * Reduce errors from unappropriate Makefile 
+    * Reduce errors from inter-component function calling
+    * Reduce errors from wrong file declaration (module, configuration, or interface)
+  * Ease debugging / testing / simulation
+
+== Operating Environment ==
+Netbeans 6.0 (may ir may not compatible with other NB version)
+
+----
+
+= System Features =
