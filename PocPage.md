@@ -1,0 +1,11 @@
+# Introduction #
+
+During the Netbeans plugin development, I have searched, learned, and tested several tricks to make the plugin work as it is.
+
+I published my findings in hope that other people that want to join the project or creating new netbeans plugin can learn from my previous experience.
+
+
+# Proof of Concept Pages #
+
+  * [Creating new project in NB 6.0](PocCreateNewProject.md)
+  * [Creating new project category in NB 6.0](PocCreateNewProjectCategory.md)
